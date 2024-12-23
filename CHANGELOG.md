@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2ea848b`](https://github.com/stdlib-js/stdlib/commit/2ea848b62b686e1e9d861f7df25ece23a7d80798) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`140b517`](https://github.com/stdlib-js/stdlib/commit/140b5172075f08678b84b5f92b7feeacfc777119) - **feat:** add `math/base/assert/is-integerf` _(by Gunj Joshi, Philipp Burckhardt)_
 
