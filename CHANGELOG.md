@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-08-08)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - add missing includes
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - **fix:** add missing includes _(by Athan Reines)_
 -   [`d3089d5`](https://github.com/stdlib-js/stdlib/commit/d3089d54641409dada68d272140566daea12150a) - **bench:** update random value generation [(#6680)](https://github.com/stdlib-js/stdlib/pull/6680) _(by Harsh)_
 -   [`7403869`](https://github.com/stdlib-js/stdlib/commit/7403869fadcd39b42c3e1a6f687f712ae77a286d) - **refactor:** use argv float instead of double _(by Philipp Burckhardt)_
 -   [`452ba64`](https://github.com/stdlib-js/stdlib/commit/452ba64c898cec9c526ae2201aa149086347ec8e) - **refactor:** update `math/base/assert/is-integerf` to follow latest project conventions [(#4629)](https://github.com/stdlib-js/stdlib/pull/4629) _(by Vivek Maurya)_
@@ -39,8 +50,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gunj Joshi
 -   Harsh
 -   Philipp Burckhardt
