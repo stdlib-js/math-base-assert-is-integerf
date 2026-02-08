@@ -263,8 +263,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-assert-is-integerf.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-assert-is-integerf
 
-[test-image]: https://github.com/stdlib-js/math-base-assert-is-integerf/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/math-base-assert-is-integerf/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/math-base-assert-is-integerf/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/math-base-assert-is-integerf/actions/workflows/test.yml?query=branch:v0.1.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-assert-is-integerf/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-assert-is-integerf?branch=main
