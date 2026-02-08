@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isIntegerf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integerf@esm/index.mjs';
+import isIntegerf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integerf@v0.1.1-esm/index.mjs';
 ```
 
 #### isIntegerf( x )
@@ -96,7 +96,7 @@ var bool = isIntegerf( 1.0 );
 <body>
 <script type="module">
 
-import isIntegerf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integerf@esm/index.mjs';
+import isIntegerf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-integerf@v0.1.1-esm/index.mjs';
 
 var bool = isIntegerf( -5.0 );
 // returns true
